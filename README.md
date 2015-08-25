@@ -1,4 +1,4 @@
-# vim
+# VI
 
 ### Moving around
 http://vim.wikia.com/wiki/Moving_around
